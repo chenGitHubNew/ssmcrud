@@ -1,0 +1,14 @@
+com\cyy\crud\bean\DepartmentExample$Criteria.class
+com\cyy\crud\bean\EmployeeExample$Criteria.class
+com\cyy\crud\dao\EmployeeMapper.class
+com\cyy\crud\text\MapperTest.class
+com\cyy\crud\bean\Department.class
+com\cyy\crud\text\MBGTest.class
+com\cyy\crud\bean\DepartmentExample.class
+com\cyy\crud\bean\DepartmentExample$Criterion.class
+com\cyy\crud\dao\DepartmentMapper.class
+com\cyy\crud\bean\DepartmentExample$GeneratedCriteria.class
+com\cyy\crud\bean\Employee.class
+com\cyy\crud\bean\EmployeeExample$Criterion.class
+com\cyy\crud\bean\EmployeeExample$GeneratedCriteria.class
+com\cyy\crud\bean\EmployeeExample.class
